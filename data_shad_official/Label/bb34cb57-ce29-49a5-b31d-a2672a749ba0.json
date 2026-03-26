@@ -1,0 +1,46 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bc",
+      "points": [
+        [
+          453.0,
+          459.0
+        ],
+        [
+          387.0,
+          660.0
+        ],
+        [
+          434.0,
+          667.0
+        ],
+        [
+          441.0,
+          670.0
+        ],
+        [
+          447.0,
+          669.0
+        ],
+        [
+          545.0,
+          685.0
+        ],
+        [
+          518.0,
+          475.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "mask_bb34cb57-ce29-49a5-b31d-a2672a749ba0.jpg",
+  "imageData": null,
+  "imageHeight": 852,
+  "imageWidth": 1136
+}

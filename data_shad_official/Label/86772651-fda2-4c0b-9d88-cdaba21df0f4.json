@@ -1,0 +1,38 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "bc",
+      "points": [
+        [
+          653.0,
+          427.0
+        ],
+        [
+          609.0,
+          450.0
+        ],
+        [
+          591.0,
+          446.0
+        ],
+        [
+          597.0,
+          679.0
+        ],
+        [
+          668.0,
+          679.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "polygon",
+      "flags": {}
+    }
+  ],
+  "imagePath": "mask_86772651-fda2-4c0b-9d88-cdaba21df0f4.jpg",
+  "imageData": null,
+  "imageHeight": 852,
+  "imageWidth": 1136
+}
